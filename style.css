@@ -1,0 +1,43 @@
+body{
+    background-image: linear-gradient(to right, #20BF55, #01BAEF);
+}
+
+div.the-page{
+    margin: 15px;
+    color: aliceblue;
+    text-align: center;
+}
+
+div.heading-text{
+    margin-bottom: 15px;
+    font-size: 50px;
+    font-family: fantasy;
+    font-style: italic;
+}
+
+div.notice{
+    font-size: 20px;
+    font-family: cursive;
+    font-style: italic;
+}
+
+div.input-box{
+    margin-bottom: 10px;
+}
+
+#text-box{
+    height: 25px;
+    width: 150px;
+}
+
+div.but-div{
+    margin-top: 3px;
+    margin-bottom: 10px;
+}
+
+#button1{
+    height: auto;
+    width: auto;
+    font-size: large;
+    font-family: cursive;
+}
